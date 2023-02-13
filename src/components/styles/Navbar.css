@@ -1,0 +1,43 @@
+a{
+    text-decoration:none;
+    display:flex;
+    flex-direction:column;
+    gap:0.5rem;
+    justify-content:center;
+    align-items:center;
+}
+
+ul{
+    width:71px;
+    display:flex;
+    flex-direction:column;
+    border-right: 1px solid #ECECEC;
+    list-style: none;
+}
+
+li{
+    height: 85px;
+    width: 71px;
+}
+
+svg{
+    font-weight:400;
+    font-style:none;
+    font-variant: normal;
+    color:black;
+}
+p{
+   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #6B6B6B;
+}
+
+.logo{
+    height:71px;
+    width:100%;
+    background: #29B712;
+    color:white;
+}
